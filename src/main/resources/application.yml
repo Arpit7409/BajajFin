@@ -1,0 +1,11 @@
+app:
+  name: Arpit Khanna
+  regNo: 22BCE0360
+  email: arpitkhanna1981@gmail.com
+  endpoints:
+    generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+    fallbackSubmit: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+
+logging:
+  level:
+    root: INFO
